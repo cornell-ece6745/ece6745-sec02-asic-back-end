@@ -13,7 +13,7 @@ set_app_var link_library   "* $env(ECE6745_STDCELLS)/stdcells.db"
 # Inputs
 #-------------------------------------------------------------------------
 
-analyze -format sverilog $env(TOPDIR)/sim/build/RegIncr4stage__pickled.v
+analyze -format sverilog $env(SRCDIR)/RegIncr4stage__pickled.v
 elaborate RegIncr4stage
 
 #-------------------------------------------------------------------------
