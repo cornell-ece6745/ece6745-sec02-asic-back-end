@@ -1,5 +1,5 @@
 
-ECE 6745 Section 2: ASIC Flow Back-End
+ECE 6745 Section 2: ASIC Back-End Flow
 ==========================================================================
 
 This repository contains source code for ECE 6745 Section 2. The
